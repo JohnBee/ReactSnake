@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactSnake/static/css/main.648e7d32.chunk.css",
+    "main.js": "/ReactSnake/static/js/main.483c01c0.chunk.js",
+    "main.js.map": "/ReactSnake/static/js/main.483c01c0.chunk.js.map",
+    "runtime-main.js": "/ReactSnake/static/js/runtime-main.be157f33.js",
+    "runtime-main.js.map": "/ReactSnake/static/js/runtime-main.be157f33.js.map",
+    "static/js/2.fd254d6d.chunk.js": "/ReactSnake/static/js/2.fd254d6d.chunk.js",
+    "static/js/2.fd254d6d.chunk.js.map": "/ReactSnake/static/js/2.fd254d6d.chunk.js.map",
+    "static/js/3.a62fcdb7.chunk.js": "/ReactSnake/static/js/3.a62fcdb7.chunk.js",
+    "static/js/3.a62fcdb7.chunk.js.map": "/ReactSnake/static/js/3.a62fcdb7.chunk.js.map",
+    "index.html": "/ReactSnake/index.html",
+    "static/css/main.648e7d32.chunk.css.map": "/ReactSnake/static/css/main.648e7d32.chunk.css.map",
+    "static/js/2.fd254d6d.chunk.js.LICENSE.txt": "/ReactSnake/static/js/2.fd254d6d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ReactSnake/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be157f33.js",
+    "static/js/2.fd254d6d.chunk.js",
+    "static/css/main.648e7d32.chunk.css",
+    "static/js/main.483c01c0.chunk.js"
+  ]
+}
